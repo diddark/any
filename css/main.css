@@ -1,0 +1,25 @@
+
+h1{
+	padding: 20px 0;
+	text-align:center;
+}
+
+
+p {
+	padding:0 10%;
+	float:left;
+	text-align:center;
+}
+
+img{
+	float:left;
+		height:200px;
+}
+
+footer {
+	clear:left;
+		padding: 20px 0;
+	background-color: gray;
+		height: 50px; 
+	 text-align:center;
+}

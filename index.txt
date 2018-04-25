@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Тестовая страница</title>
+  </head>
+  <body>
+    <p>Моя первая страница</p>
+  </body>
+  <foter>
+  Миша и К</foter>
+</html>
